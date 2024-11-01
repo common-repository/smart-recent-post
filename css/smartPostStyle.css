@@ -1,0 +1,7 @@
+.smart_post{ width: 300px;}
+.smart_post ul { list-style: none;}
+.smart_post ul li {  list-style: none; padding: 0 0 8px 0;  font-size: 11px !important;}
+.smart_post ul li img { float: left; margin-right: 10px; }
+.smart_post ul li a { color: #000; text-decoration: none;} 
+.smart_post ul li h3 { clear: none !important;}
+
